@@ -13,4 +13,6 @@ WORKDIR /etc/nginx
 CMD ["nginx"]
 
 EXPOSE 80
+
 EXPOSE 443
+test
